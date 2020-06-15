@@ -70,3 +70,15 @@ inoremap <Left>  <ESC>:echoe "Use h"<CR>
 inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
+
+" Plugins 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" vim-colors-solarized
+" If you are going to use Solarized in Terminal mode (i.e. not in a GUI
+" version 
+" like gvim or macvim), **please please please** consider setting your
+" terminal 
+" emulator's colorscheme to used the Solarized palette
+" palette repo: https://github.com/altercation/solarized
+
