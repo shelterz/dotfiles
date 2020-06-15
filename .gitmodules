@@ -8,3 +8,6 @@
 [submodule "vim/pack/vendor/start/vim-colors-solarized"]
 	path = vim/pack/vendor/start/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/pack/vendor/start/gundo.vim"]
+	path = vim/pack/vendor/start/gundo.vim
+	url = https://github.com/sjl/gundo.vim
