@@ -20,3 +20,6 @@
 [submodule "vim/pack/vendor/start/nerdtree"]
 	path = vim/pack/vendor/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree
+[submodule "vim/pack/vendor/start/nerdcommenter"]
+	path = vim/pack/vendor/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
