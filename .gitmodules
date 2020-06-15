@@ -14,3 +14,6 @@
 [submodule "vim/pack/vendor/start/supertab"]
 	path = vim/pack/vendor/start/supertab
 	url = https://github.com/ervandew/supertab
+[submodule "vim/pack/vendor/start/syntastic"]
+	path = vim/pack/vendor/start/syntastic
+	url = https://github.com/scrooloose/syntastic
