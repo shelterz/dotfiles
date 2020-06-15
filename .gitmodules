@@ -11,3 +11,6 @@
 [submodule "vim/pack/vendor/start/gundo.vim"]
 	path = vim/pack/vendor/start/gundo.vim
 	url = https://github.com/sjl/gundo.vim
+[submodule "vim/pack/vendor/start/supertab"]
+	path = vim/pack/vendor/start/supertab
+	url = https://github.com/ervandew/supertab
