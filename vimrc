@@ -118,15 +118,11 @@ endif
 let g:markdown_fenced_languages = [
     \ 'bash=sh',
     \ 'c',
-    \ 'coffee',
     \ 'erb=eruby',
     \ 'javascript',
     \ 'json',
-    \ 'perl',
     \ 'python',
-    \ 'ruby',
     \ 'yaml',
     \ 'go',
-    \ 'racket',
 \]
 let g:markdown_syntax_conceal = 0
